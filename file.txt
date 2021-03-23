@@ -1,0 +1,2 @@
+Python is fun!!!
+Im learning how to write to a python file!!!
